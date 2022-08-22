@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <h2 align="center"> Mentasuave01</h2>
 </br>
+
 ```diff
 + I'm a junior software developer based in Madrid, Spain, 
 + specializing in building web3 communities, websites and tools to connect with the users.
@@ -26,18 +27,52 @@ Here are some ideas to get you started:
 
 
 </br>
+
 # 🛠 &nbsp;Tech Stack
 
-| 🌐  | 🗄   | 🛢   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) |![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   |  
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)|
-  ![11ty](https://i.imgur.com/lYnQEcP.png) |  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  <div align="center">
+    <table>
+         <tr>
+            <th>🌐 Frontend</th>
+            <th>🗄 Backend </th>
+            <th> 🛢 Database  </th>
+         </tr>
+         <td></td>
+         <tr>
+            <td><img alt="solidjs developer" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb"></td>
+             <td><img alt="Node developer" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></td>
+            <td><img alt="Firebase developer" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></td>
+         </tr>
+         <tr>
+            <td><img alt="React developer" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
+            <td><img alt="Docker developer" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></td>
+            <td></td>
+         </tr>
+         <tr>
+            <td><img alt="11ty badge" src="https://i.imgur.com/lYnQEcP.png"></td>
+            <td><img alt="Docker developer" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
+            <td></td>
+         </tr>
+      </table>
+      <table>
+         <tr>
+            <th>⚙️ Version Control</th>
+            <th>🔧 Editors </th>
+            <th> 🎨 Design  </th>
+         </tr>
+         <tr>
+          <td></td>
+         </tr>
+         <tr>
+            <td><img alt="github badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
+             <td><img alt="vs code badge" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC"></td>
+            <td><img alt="Firebase developer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></td>
+         </tr>
+      </table>
+  </div>
 
-| ⚙️  | 🔧  | 🎨  | 
-| ---  | --- |  --- |  --- |
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)|![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-  | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
+</br>
+</br>
 
 
 ```diff
