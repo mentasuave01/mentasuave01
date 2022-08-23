@@ -24,6 +24,22 @@ Here are some ideas to get you started:
 + I'm a junior software developer based in Madrid, Spain, 
 + specializing in building web3 communities, websites and tools to connect with the users.
 ```
+##  Projects
+
+https://Mentasuave01-tools.com: Inteligent Fantom faucet based on bridge transactions 
+
+![Mentasuavefaucet](https://i.imgur.com/NbrJzNO.png)
+
+https://newguide.pages.dev/: Spookyswap troobleshot guide
+
+![New-guide](https://i.imgur.com/60VTIE3.png)
+
+Other works:
+
+https://github.com/mentasuave01?tab=repositories&q=&type=source
+
+Simple hand fast Multi-checkbox handlers and other tricks:
+https://gist.github.com/mentasuave01
 
 
 </br>
@@ -37,7 +53,6 @@ Here are some ideas to get you started:
             <th>🗄 Backend </th>
             <th> 🛢 Database  </th>
          </tr>
-         <td></td>
          <tr>
             <td><img alt="solidjs developer" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb"></td>
              <td><img alt="Node developer" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></td>
@@ -61,9 +76,6 @@ Here are some ideas to get you started:
             <th> 🎨 Design  </th>
          </tr>
          <tr>
-          <td></td>
-         </tr>
-         <tr>
             <td><img alt="github badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
              <td><img alt="vs code badge" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC"></td>
             <td><img alt="Firebase developer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></td>
@@ -81,9 +93,10 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ```diff
+on process...
 ```
 
-on process...</br>
+
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
