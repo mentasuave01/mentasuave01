@@ -32,7 +32,9 @@ https://Mentasuave01-tools.com: Inteligent Fantom faucet based on bridge transac
 
 https://newguide.pages.dev/: Spookyswap troobleshot guide
 
-![New-guide](https://i.imgur.com/Jl1TzBY.gif)
+<img src="https://i.imgur.com/Jl1TzBY.gif" width="330" height="333">
+
+
 
 Other works:
 
