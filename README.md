@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 </br>
 
 ```diff
-+ I'm a junior software developer based in Madrid, Spain, 
-+ specializing in building web3 communities, websites and tools to connect with the users.
++ I'm a junior software developer based in Madrid, Spain. 
++ Specialized in developing and creating web3 communities,
++ as well as designing websites and developing tools to 
++ facilitate seamless user connectivit
 ```
 ##  Projects
 
