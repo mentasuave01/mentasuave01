@@ -21,27 +21,28 @@ Here are some ideas to get you started:
 </br>
 
 ```diff
-+ I'm a junior software developer based in Madrid, Spain. 
++ I'm a junior software developer based in Madrid, Spain.
 + Specialized in developing and creating web3 communities,
-+ as well as designing websites and developing tools to 
++ as well as designing websites and developing tools to
 + facilitate seamless users engage
 ```
-##  Projects
 
-https://Mentasuave01-tools.com: <br>  Inteligent Fantom faucet based on bridge transactions 
+## Projects
+
+https://Mentasuave01-tools.com: <br> Inteligent Fantom faucet based on bridge transactions
 
 ![Mentasuavefaucet](https://i.imgur.com/NbrJzNO.png)
 
 ---
 
-https://newguide.pages.dev/: <br>  Spookyswap troobleshot guide
+https://newguide.pages.dev/: <br> Spookyswap troobleshot guide
 
 <img src="https://i.imgur.com/Jl1TzBY.gif" width="330" height="333">
 
 ---
 
-https://www.xpandr.financial/:  <br> 
-Beefy fork, developed the API and Front end  <br> 
+https://www.xpandr.financial/: <br>
+Beefy fork, developed the API and Front end <br>
 ⚠️ Debtor project ⚠️ I'm not part of the team or have any relation with the protocol or further developement
 
 <img src="https://i.imgur.com/nQYAzsx.png" width="330" height="403">
@@ -50,11 +51,27 @@ Beefy fork, developed the API and Front end  <br>
 
 Other works:
 
+<h4>Split Midjourney Images</h4>
+
+https://split-midjourney-images.pages.dev/
+
+Upload your Midjourney images and it will split them into 4 images.
+<img src="https://i.imgur.com/o3gkSuY.png" width="250" height="200">
+
+<h4>PNG to webP </h4>
+
+https://pngtowebp.pages.dev/
+
+<ul>
+<li>Allow multiple files to be converted at once</li>
+<li>Local execution using the browser, images are not uploaded to the web</li>
+</ul>
+<img src="https://i.imgur.com/5iZAzfr.png" width="250" height="250">
+
 https://github.com/mentasuave01?tab=repositories&q=&type=source
 
 Simple hand fast Multi-checkbox handlers and other tricks:
 https://gist.github.com/mentasuave01
-
 
 </br>
 
@@ -78,7 +95,6 @@ https://gist.github.com/mentasuave01
             <td></td>
          </tr>
          <tr>
-            <td><img alt="11ty badge" src="https://i.imgur.com/lYnQEcP.png"></td>
             <td><img alt="Docker developer" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
             <td></td>
          </tr>
@@ -100,16 +116,15 @@ https://gist.github.com/mentasuave01
 </br>
 </br>
 
-
 ```diff
 Languages:
 ```
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ```diff
 on process...
 ```
-
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -118,6 +133,7 @@ on process...
 </br>
 
 ## Proud #top20 at BeatSaber Spain </br>
+
 https://scoresaber.com/u/76561197996347183
 
 ![Beatsaberr](https://s.cafebazaar.ir/images/icons/com.ihd.beatsaber-f75d39ee-32cc-4fc6-90be-026a7ae9ab50_128x128.png?x-img=v1/resize,w_128/format,type_webp)
