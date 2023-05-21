@@ -56,6 +56,7 @@ Other works:
 https://split-midjourney-images.pages.dev/
 
 Upload your Midjourney images and it will split them into 4 images.
+
 <img src="https://i.imgur.com/o3gkSuY.png" width="250" height="200">
 
 <h4>PNG to webP </h4>
