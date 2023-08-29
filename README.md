@@ -29,19 +29,27 @@ Here are some ideas to get you started:
 
 ## Projects
 
-https://Mentasuave01-tools.com: <br> Inteligent Fantom faucet based on bridge transactions
+https://Mentasuave01-tools.com <br> Inteligent Fantom faucet based on bridge transactions
 
 ![Mentasuavefaucet](https://i.imgur.com/NbrJzNO.png)
 
 ---
 
-https://newguide.pages.dev/: <br> Spookyswap troobleshot guide
+https://pugswap.io/ <br> Pugswap site
+
+<img src="https://i.imgur.com/lmhktwd.png" width="330" height="333">
+
+---
+
+https://newguide.pages.dev/ <br> Spookyswap troobleshot guide
 
 <img src="https://i.imgur.com/Jl1TzBY.gif" width="330" height="333">
 
 ---
 
-https://www.xpandr.financial/: <br>
+
+
+https://www.xpandr.financial/ <br>
 Beefy fork, developed the API and Front end <br>
 ⚠️ Debtor project ⚠️ I'm not part of the team or have any relation with the protocol or further developement
 
