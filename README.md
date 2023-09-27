@@ -53,11 +53,6 @@ Demo: https://2a7cb8f8.widget-genetator-alpha.pages.dev/
 https://github.com/mentasuave01/mentasuave01/assets/60361959/14f101c0-9c63-4d21-936f-a9fbd94eaa58
 
 
-
----
-https://pugswap.io/ <br> Pugswap site
-
-<img src="https://i.imgur.com/lmhktwd.png" width="330" height="333">
 ---
 https://pugswap.io/ <br> Pugswap site
 
