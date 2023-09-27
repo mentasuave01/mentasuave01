@@ -35,7 +35,7 @@ https://Mentasuave01-tools.com <br> Inteligent Fantom faucet based on bridge tra
 
 ---
 
-CrytoLink <br> Novel CrosSwap widget written from 0 </br>
+CryptoLink <br> Novel CrosSwap widget written from 0 </br>
 https://github.com/mentasuave01/CriptoLink-open-interface-widget </br>
 Demo: https://ba2353a3.widget-alpha.pages.dev/ </br>
 
