@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </br>
 
 ```diff
-+ I'm a junior software developer based in Madrid, Spain.
++ I'm a front end developer based in Madrid, Spain.
 + Specialized in developing and creating web3 communities,
 + as well as designing websites and developing tools to
 + facilitate seamless users engage
@@ -35,10 +35,33 @@ https://Mentasuave01-tools.com <br> Inteligent Fantom faucet based on bridge tra
 
 ---
 
+CrytoLink <br> Novel CrosSwap widget written from 0 </br>
+https://github.com/mentasuave01/CriptoLink-open-interface-widget </br>
+Demo: https://ba2353a3.widget-alpha.pages.dev/ </br>
+
+
+https://github.com/mentasuave01/mentasuave01/assets/60361959/2b48465c-5aca-4776-9b81-e796ab473403
+
+---
+
+CryptoLink CrosSwap widget customization and generation </br>
+https://github.com/mentasuave01/Cryptolink-Widget-Generator </br>
+Demo: https://2a7cb8f8.widget-genetator-alpha.pages.dev/
+
+
+
+https://github.com/mentasuave01/mentasuave01/assets/60361959/14f101c0-9c63-4d21-936f-a9fbd94eaa58
+
+
+
+---
 https://pugswap.io/ <br> Pugswap site
 
 <img src="https://i.imgur.com/lmhktwd.png" width="330" height="333">
+---
+https://pugswap.io/ <br> Pugswap site
 
+<img src="https://i.imgur.com/lmhktwd.png" width="330" height="333">
 ---
 
 https://newguide.pages.dev/ <br> Spookyswap troobleshot guide
