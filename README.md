@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 ```
 
 ## Projects
+~~https://Mentasuave01-tools.com~~	 Inteligent Fantom faucet based on bridge transactions <br/>
+https://medium.com/@mentasuave01/inside-fantom-faucet-2021-2023%EF%B8%8F-820e54ea57d8 <br/>
 
-https://Mentasuave01-tools.com <br> Inteligent Fantom faucet based on bridge transactions
-
-![Mentasuavefaucet](https://i.imgur.com/NbrJzNO.png)
+![Mentasuavefaucet](https://i.imgur.com/NbrJzNO.png) 	
 
 ---
 
