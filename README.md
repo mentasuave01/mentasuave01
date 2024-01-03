@@ -77,6 +77,16 @@ Beefy fork, developed the API and Front end <br>
 
 Other works:
 
+<h4>Freelancer Stopwatch</h4>
+
+https://freelancer-stopwatch.pages.dev/
+
+https://github.com/mentasuave01/freelancer-stopwatch/
+
+https://github.com/mentasuave01/mentasuave01/assets/60361959/e5bf12b5-002d-48d0-85bf-eb89ed2e0660
+
+</br>
+
 <h4>Split Midjourney Images</h4>
 
 https://split-midjourney-images.pages.dev/
@@ -101,6 +111,8 @@ Simple hand fast Multi-checkbox handlers and other tricks:
 https://gist.github.com/mentasuave01
 
 </br>
+
+
 
 # 🛠 &nbsp;Tech Stack
 
