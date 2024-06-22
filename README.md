@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 ```diff
 + I'm a front end developer based in Madrid, Spain.
-+ Specialized in developing and creating web3 communities,
-+ as well as designing websites and developing tools to
-+ facilitate seamless users engage
++ Specialized in developing web3 experiences and creating web3 communities that stick together
+
 ```
 
 ## Projects
