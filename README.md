@@ -27,7 +27,15 @@ Here are some ideas to get you started:
 ```
 
 ## Projects
-~~https://Mentasuave01-tools.com~~	 Inteligent Fantom faucet based on bridge transactions <br/>
+
+Front end led dev at <br>
+https://www.abacus.tech/ <br>
+
+![image](https://github.com/user-attachments/assets/6ad3bd74-03d7-43ef-8e8e-3f36fb3e98bd)
+
+
+Inteligent Fantom faucet based on bridge transactions <br/>
+~~https://Mentasuave01-tools.com~~	 
 https://medium.com/@mentasuave01/inside-fantom-faucet-2021-2023%EF%B8%8F-820e54ea57d8 <br/>
 
 ![Mentasuavefaucet](https://i.imgur.com/NbrJzNO.png) 	
