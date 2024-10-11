@@ -93,7 +93,10 @@ Beefy fork, developed the API and Front end <br>
 
 ---
 
-Other works:
+Other projects:
+
+<h4>Modern Javascript dev container(bun/node)</h4>
+https://github.com/mentasuave01/devcontainer-bun
 
 <h4>Freelancer Stopwatch</h4>
 
