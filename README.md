@@ -26,20 +26,25 @@ Here are some ideas to get you started:
 
 ```
 
-## Projects I was part of
+## Projects ⚪️:Currently working ⚫️:Past works
 
-Front end dev at <br>
+⚪️Front end dev at <br>
+https://www.ramses.exchange/
+![Screenshot from 2024-10-20 14-19-32](https://github.com/user-attachments/assets/884724f8-8b35-468b-84fc-c0da0480f292)
+
+
+⚫️Front end dev at <br>
 https://spooky.fi/
 ![image](https://github.com/user-attachments/assets/901e57ee-54fc-4830-820a-fe93f84c777b)
 
 
-Lead Front end dev at <br>
+⚪️Lead Front end dev at <br>
 https://www.abacus.tech/ <br>
 
 ![image](https://github.com/user-attachments/assets/6ad3bd74-03d7-43ef-8e8e-3f36fb3e98bd)
 
 
-Lead Front end lead dev <br>
+⚪️Lead Front end lead dev <br>
 https://mclb.org/ <br>
 ![image](https://github.com/user-attachments/assets/b9630939-f2e5-4b61-9fcd-d1471f3e3544)
 
@@ -53,7 +58,7 @@ https://medium.com/@mentasuave01/inside-fantom-faucet-2021-2023%EF%B8%8F-820e54e
 
 ---
 
-CryptoLink <br> Novel CrosSwap widget written from 0 </br>
+⚫️CryptoLink <br> Novel CrosSwap widget written from 0 </br>
 https://github.com/mentasuave01/CriptoLink-open-interface-widget </br>
 Demo: https://ba2353a3.widget-alpha.pages.dev/ </br>
 
@@ -62,7 +67,7 @@ https://github.com/mentasuave01/mentasuave01/assets/60361959/2b48465c-5aca-4776-
 
 ---
 
-CryptoLink CrosSwap widget customization and generation </br>
+⚫️CryptoLink CrosSwap widget customization and generation </br>
 https://github.com/mentasuave01/Cryptolink-Widget-Generator </br>
 Demo: https://2a7cb8f8.widget-genetator-alpha.pages.dev/
 
@@ -72,7 +77,7 @@ https://github.com/mentasuave01/mentasuave01/assets/60361959/14f101c0-9c63-4d21-
 
 
 ---
-https://pugswap.io/ <br> Pugswap site
+⚫️https://pugswap.io/ <br> Pugswap site
 
 <img src="https://i.imgur.com/lmhktwd.png" width="330" height="333">
 ---
