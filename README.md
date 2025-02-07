@@ -84,7 +84,11 @@ https://github.com/mentasuave01/mentasuave01/assets/60361959/14f101c0-9c63-4d21-
 
 https://newguide.pages.dev/ <br> Spookyswap troobleshot guide
 
-<img src="https://i.imgur.com/Jl1TzBY.gif" width="330" height="333">
+
+
+https://github.com/user-attachments/assets/19042075-f17c-4cd7-96bb-0dae90dd5b4c
+
+
 
 ---
 
