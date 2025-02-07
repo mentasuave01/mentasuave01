@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ## Projects ⚪️:Currently working ⚫️:Past works
 
+# Main Projects
+
 ⚪️Front end dev at <br>
 https://www.ramses.exchange/
 ![Screenshot from 2024-10-20 14-19-32](https://github.com/user-attachments/assets/884724f8-8b35-468b-84fc-c0da0480f292)
@@ -56,6 +58,20 @@ https://medium.com/@mentasuave01/inside-fantom-faucet-2021-2023%EF%B8%8F-820e54e
 
 ![Mentasuavefaucet](https://i.imgur.com/NbrJzNO.png) 	
 
+
+# Side Projects
+
+⚫️Blackhole<br> The novel deflationary token with continuous value appreciation through supply reduction, fee redistribution<br>
+https://blackholedao.finance/
+
+
+https://github.com/user-attachments/assets/11693cda-1e32-42ef-9470-a632f0658007
+
+
+https://github.com/user-attachments/assets/21c4c14f-bf31-4aa3-8008-0fffcc211db6
+
+
+
 ---
 
 ⚫️CryptoLink <br> Novel CrosSwap widget written from 0 </br>
@@ -82,9 +98,7 @@ https://github.com/mentasuave01/mentasuave01/assets/60361959/14f101c0-9c63-4d21-
 <img src="https://i.imgur.com/lmhktwd.png" width="330" height="333">
 ---
 
-https://newguide.pages.dev/ <br> Spookyswap troobleshot guide
-
-
+⚫️https://newguide.pages.dev/ <br> Spookyswap troobleshot guide
 
 https://github.com/user-attachments/assets/19042075-f17c-4cd7-96bb-0dae90dd5b4c
 
@@ -94,7 +108,7 @@ https://github.com/user-attachments/assets/19042075-f17c-4cd7-96bb-0dae90dd5b4c
 
 
 
-https://www.xpandr.financial/ <br>
+⚫️https://www.xpandr.financial/ <br>
 Beefy fork, developed the API and Front end <br>
 ⚠️ Debtor project ⚠️ I'm not part of the team or have any relation with the protocol or further developement
 
@@ -102,7 +116,7 @@ Beefy fork, developed the API and Front end <br>
 
 ---
 
-Other projects:
+# Mini-projects (DEV time < 1h ) 
 
 <h4>Modern Javascript dev container(bun/node)</h4>
 https://github.com/mentasuave01/devcontainer-bun
@@ -146,38 +160,26 @@ https://gist.github.com/mentasuave01
 
 # 🛠 &nbsp;Tech Stack
 
-  <div align="center">
+  <div  style="display: flex; flex-direction: row;">
     <table>
          <tr>
             <th>🌐 Frontend</th>
-            <th>🗄 Backend </th>
-            <th> 🛢 Database  </th>
          </tr>
          <tr>
             <td><img alt="solidjs developer" src="https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb"></td>
-             <td><img alt="Node developer" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></td>
-            <td><img alt="Firebase developer" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"></td>
          </tr>
          <tr>
             <td><img alt="React developer" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></td>
-            <td><img alt="Docker developer" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></td>
-            <td></td>
          </tr>
          <tr>
-            <td><img alt="Docker developer" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></td>
-            <td></td>
          </tr>
       </table>
       <table>
          <tr>
             <th>⚙️ Version Control</th>
-            <th>🔧 Editors </th>
-            <th> 🎨 Design  </th>
          </tr>
          <tr>
             <td><img alt="github badge" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></td>
-             <td><img alt="vs code badge" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC"></td>
-            <td><img alt="Firebase developer" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"></td>
          </tr>
       </table>
   </div>
