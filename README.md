@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ```diff
 - I'm a front end developer based in Madrid, Spain.
-+ I'm a nomad front end developer.
++ I'm a nomad front end developer locking for a new base
 + Specialized in developing web3 experiences and creating web3 communities that stick together
 
 ```
