@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 </br>
 
 ```diff
-+ I'm a front end developer based in Madrid, Spain.
+- I'm a front end developer based in Madrid, Spain.
++ I'm a nomad front end developer.
 + Specialized in developing web3 experiences and creating web3 communities that stick together
 
 ```
