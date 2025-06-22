@@ -199,15 +199,6 @@ Languages:
 on process...
 ```
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-</br>
-
-## Proud #top20 at BeatSaber Spain </br>
-
-https://scoresaber.com/u/76561197996347183
-
-![Beatsaberr](https://s.cafebazaar.ir/images/icons/com.ihd.beatsaber-f75d39ee-32cc-4fc6-90be-026a7ae9ab50_128x128.png?x-img=v1/resize,w_128/format,type_webp)
-
-<br/>
