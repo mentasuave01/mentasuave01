@@ -31,23 +31,23 @@ Here are some ideas to get you started:
 
 # Main Projects
 
-⚪️Front end dev at <br>
+⚫️ Front end dev at <br>
 https://www.ramses.exchange/
 ![Screenshot from 2024-10-20 14-19-32](https://github.com/user-attachments/assets/884724f8-8b35-468b-84fc-c0da0480f292)
 
 
-⚫️Front end dev at <br>
+⚫️ Front end dev at <br>
 https://spooky.fi/
 ![image](https://github.com/user-attachments/assets/901e57ee-54fc-4830-820a-fe93f84c777b)
 
 
-⚪️Lead Front end dev at <br>
+⚪️ Lead Front end dev at <br>
 https://www.abacus.tech/ <br>
 
 ![image](https://github.com/user-attachments/assets/6ad3bd74-03d7-43ef-8e8e-3f36fb3e98bd)
 
 
-⚪️Lead Front end lead dev <br>
+⚪️ Lead Front end lead dev <br>
 https://mclb.org/ <br>
 ![image](https://github.com/user-attachments/assets/b9630939-f2e5-4b61-9fcd-d1471f3e3544)
 
