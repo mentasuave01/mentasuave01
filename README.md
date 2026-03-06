@@ -41,7 +41,7 @@ https://spooky.fi/
 ![image](https://github.com/user-attachments/assets/901e57ee-54fc-4830-820a-fe93f84c777b)
 
 
-⚪️ Lead Front end dev at <br>
+⚫️ Lead Front end dev at <br>
 https://www.abacus.tech/ <br>
 
 ![image](https://github.com/user-attachments/assets/6ad3bd74-03d7-43ef-8e8e-3f36fb3e98bd)
